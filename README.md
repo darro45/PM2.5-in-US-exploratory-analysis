@@ -1,6 +1,6 @@
 # PM2.5-in-US-exploratory-analysis
 
-Codes developed in order to answer these questions:
+Check the "R codes" folder to see/replicate the codes developed, in order to answer these questions:
 
 1. Have total emissions from PM2.5 decreased in the United States from 1999 to 2008?
 
